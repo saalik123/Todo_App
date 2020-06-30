@@ -1,0 +1,15 @@
+{
+    "name": "todo-list",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d todo_app"
+    },
+    "author": "Saalik",
+    "license": "ISC",
+    "homepage": "https://saalik123.github.io/Todo_App",
+    "dependencies": {
+        "gh-pages": "^3.1.0"
+    }
+}
